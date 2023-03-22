@@ -5,15 +5,15 @@ Template for simple pair programming exercise.
 Endpoints:
 
 - TODO list: https://dummyjson.com/todos
-- TODO item: https://dummyjson.com/todos/<id>
+- TODO item: https://dummyjson.com/todos/id
 - USER list: https://dummyjson.com/users
-- USER item: https://dummyjson.com/users/<id>
-- USER todos: https://dummyjson.com/users/<id>/todos
+- USER item: https://dummyjson.com/users/id
+- USER todos: https://dummyjson.com/users/id/todos
 
 Docs:
 
-- Todos: https://dummyjson.com/docs/todos
-- Users: https://dummyjson.com/docs/users
+- [Todos](https://dummyjson.com/docs/todos)
+- [Users](https://dummyjson.com/docs/users)
 
 # Goals
 
