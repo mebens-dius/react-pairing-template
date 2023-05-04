@@ -2,18 +2,16 @@ Template for simple pair programming exercise.
 
 # APIs
 
-Endpoints:
+TODO endpoints ([Docs](https://dummyjson.com/docs/todos)):
 
 - TODO list: https://dummyjson.com/todos
 - TODO item: https://dummyjson.com/todos/id
+
+USER endpoints ([Docs](https://dummyjson.com/docs/users)):
+
 - USER list: https://dummyjson.com/users
 - USER item: https://dummyjson.com/users/id
 - USER todos: https://dummyjson.com/users/id/todos
-
-Docs:
-
-- [Todos](https://dummyjson.com/docs/todos)
-- [Users](https://dummyjson.com/docs/users)
 
 # Goals
 

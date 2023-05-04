@@ -1,5 +1,6 @@
 import React from "react";
 import styled from "styled-components";
+import "./global.scss";
 
 const ExampleStyledDiv = styled.div`
   font-family: sans-serif;
